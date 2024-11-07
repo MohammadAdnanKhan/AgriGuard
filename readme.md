@@ -3,16 +3,16 @@
 **AgriGuard** is an intelligent plant health assistant designed to help identify plant diseases with high accuracy. This application allows users to upload an image of a plant leaf, analyze it using a CNN model, and receive predictions about potential diseases. AgriGuard is ideal for farmers, agronomists, and researchers aiming to ensure plant health and improve agricultural productivity.
 
 ## 📋 Table of Contents
-- [📌 Project Overview](#project-overview)
-- [✨ Features](#features)
-- [🌐 Demo](#demo)
-- [⚙️ Installation](#installation)
-- [🚀 Usage](#usage)
-- [📊 Dataset](#dataset)
-- [🧠 Model Details](#model-details)
-- [🔮 Future Improvements](#future-improvements)
-- [👤 Author](#author)
-- [📜 License](#license)
+- 📌 [Project Overview](#project-overview)
+- ✨ [Features](#features)
+- 🌐 [Demo](#demo)
+- ⚙️ [Installation](#installation)
+- 🚀 [Usage](#usage)
+- 📊 [Dataset](#dataset)
+- 🧠 [Model Details](#model-details)
+- 🔮 [Future Improvements](#future-improvements)
+- 👤 [Author](#author)
+- 📜 [License](#license)
 
 ---
 
@@ -77,7 +77,7 @@ AgriGuard uses a CNN model trained on a large dataset of plant leaves, allowing 
 **Mohd Adnan Khan**  
 Data Scientist and Machine Learning Engineer passionate about applying AI to solve real-world problems.
 
-- [💼 LinkedIn](https://www.linkedin.com/in/mohd-adnan--khan)
-- [🐙 GitHub](https://github.com/MohammadAdnanKhan)
-- [📊 Kaggle](https://www.kaggle.com/mohdadnankhan1)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohd-adnan--khan)
+- 🐙 [GitHub](https://github.com/MohammadAdnanKhan)
+- 📊 [Kaggle](https://www.kaggle.com/mohdadnankhan1)
 - **📧 Contact**: mohdadnankhan.india@gmail.com
