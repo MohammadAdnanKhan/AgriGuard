@@ -3,16 +3,15 @@
 **AgriGuard** is an intelligent plant health assistant designed to help identify plant diseases with high accuracy. This application allows users to upload an image of a plant leaf, analyze it using a CNN model, and receive predictions about potential diseases. AgriGuard is ideal for farmers, agronomists, and researchers aiming to ensure plant health and improve agricultural productivity.
 
 ## 📋 Table of Contents
-- [📌 Project Overview](#-project-overview)
-- [✨ Features](#-features)
-- [🌐 Demo](#-demo)
-- [⚙️ Installation](#-installation)
-- [🚀 Usage](#-usage)
-- [📊 Dataset](#-dataset)
-- [🧠 Model Details](#-model-details)
-- [🔮 Future Improvements](#-future-improvements)
-- [👤 Author](#-author)
-
+- 📌 [Project Overview](#-project-overview)
+- ✨ [Features](#-features)
+- 🌐 [Demo](#-demo)
+- ⚙️ [Installation](#-installation)
+- 🚀 [Usage](#-usage)
+- 📊 [Dataset](#-dataset)
+- 🧠 [Model Details](#-model-details)
+- 🔮 [Future Improvements](#-future-improvements)
+- 👤 [Author](#-author)
 
 ---
 
