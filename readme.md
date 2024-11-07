@@ -68,9 +68,10 @@ The dataset used to train this model consists of 87,000 images of healthy and di
 AgriGuard uses a CNN model trained on a large dataset of plant leaves, allowing it to identify various diseases with high accuracy. The model predicts the disease and displays the top-3 results with confidence scores.
 
 ## Future Improvements
-- Add more plant species and diseases.
-- Develop a mobile version of AgriGuard.
-- Provide disease severity insights and treatment recommendations.
+- **Expand Plant and Disease Database**: Add more plant species and diseases to increase the scope and versatility of AgriGuard.
+- **Multi-Language Support**: Enable multiple languages to make AgriGuard more accessible to a global audience, particularly for non-English speaking users.
+- **Model Interpretability**: Integrate visual tools (e.g., saliency maps) to show which areas of the image influenced the model's decision, improving transparency and user trust.
+- **Disease Severity Insights and Treatment Recommendations**: Provide insights into disease severity and suggest treatments, helping users make informed decisions about plant care.
 
 ## Author
 **Mohd Adnan Khan**  
