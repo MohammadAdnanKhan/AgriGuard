@@ -19,8 +19,6 @@
 ## Project Overview
 AgriGuard leverages a Convolutional Neural Network (CNN) model trained on a dataset of plant leaf images. The model can classify leaves into 38 categories, identifying both the type of plant and the specific disease (if any). AgriGuard’s user-friendly interface, built with Streamlit, provides an intuitive experience for users to upload images and quickly receive prediction results.
 
----
-
 ## Features
 - **Disease Detection**: Upload an image of a plant leaf, and AgriGuard predicts if it has any disease, along with the specific disease type.
 - **Top-3 Predictions**: The system provides the top-3 likely diseases for each image, along with confidence scores.
