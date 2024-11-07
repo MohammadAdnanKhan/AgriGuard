@@ -12,7 +12,6 @@
 - 🧠 [Model Details](#model-details)
 - 🔮 [Future Improvements](#future-improvements)
 - 👤 [Author](#author)
-- 📜 [License](#license)
 
 ---
 
