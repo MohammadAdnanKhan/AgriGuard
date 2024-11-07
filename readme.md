@@ -34,7 +34,7 @@ To run AgriGuard locally, follow these steps:
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/MohammadAdnanKhan/AgriGuard.git
-    cd Agriguard
+    cd AgriGuard
     ```
 
 2. **Install Requirements**:
