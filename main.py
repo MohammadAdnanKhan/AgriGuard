@@ -3,6 +3,10 @@ import tensorflow as tf
 import numpy as np
 import time
 
+st.set_page_config(page_title='AgriGuard', 
+                   page_icon=":herb:")
+
+
 class_name = [
     'Apple___Apple_scab', 'Apple___Black_rot', 'Apple___Cedar_apple_rust', 'Apple___healthy',
     'Blueberry___healthy', 'Cherry_(including_sour)___Powdery_mildew', 
